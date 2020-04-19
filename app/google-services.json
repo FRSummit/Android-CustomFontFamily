@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250221115287",
+    "firebase_url": "https://captureimagedemo3.firebaseio.com",
+    "project_id": "captureimagedemo3",
+    "storage_bucket": "captureimagedemo3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250221115287:android:97ee50444aac53825db6d2",
+        "android_client_info": {
+          "package_name": "com.frsummit.captureimage_demo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250221115287-3tujb02d7rnatfd21071jnsvl3ckk00c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frsummit.captureimage_demo3",
+            "certificate_hash": "5eb1b6dc54b6e3c6858e20f77831529448285e56"
+          }
+        },
+        {
+          "client_id": "250221115287-jjobbfquuk3ocn4tsd7au5i7p2am6gs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFiuFKdHmkvIh3eZt8-snKjPD68iLU8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250221115287-jjobbfquuk3ocn4tsd7au5i7p2am6gs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
