@@ -1,4 +1,4 @@
-package com.frsummit.captureimage_demo3;
+package com.frsummit.customfonts;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.frsummit.captureimage_demo3", appContext.getPackageName());
+        assertEquals("com.frsummit.customfonts", appContext.getPackageName());
     }
 }

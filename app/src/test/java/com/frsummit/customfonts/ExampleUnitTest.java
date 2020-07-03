@@ -1,4 +1,4 @@
-package com.frsummit.captureimage_demo3;
+package com.frsummit.customfonts;
 
 import org.junit.Test;
 
